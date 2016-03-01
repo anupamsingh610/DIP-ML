@@ -4,9 +4,9 @@ import numpy as np
 
 MIN_CONTOUR_AREA = 100.0
 MAX_CONTOUR_AREA = 800.0
-RESIZED_IMAGE_WIDTH = 28
-RESIZED_IMAGE_HEIGHT = 28
-PATH = 'testImages/sample9.jpg'
+RESIZED_IMAGE_WIDTH = 20
+RESIZED_IMAGE_HEIGHT = 20
+PATH = 'FINL/3.jpg'
 FILE = "/tmp/numberPlateInfo.npy"
 numberPlateCoordinates = []
 
